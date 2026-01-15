@@ -1,4 +1,4 @@
-# ESP32-Deauther - _ tesa-klebeband revival _            
+# ESP32-Deauther - _tesa-klebeband revival_            
 Original program for ESP32 with the ability to deauthenticate stations/clients connected to WiFi networks
 # DISCLAIMER
 - This tool has been made for educational and testing purposes only. Any misuse or illegal activities conducted with the tool are strictly prohibited. The author is **not** responsible for any criminal liability and legal consequences arising from the use of the tool, which is done at your own risk. **Always consult with your Country context-specific Law **
