@@ -3,12 +3,12 @@
 
 // WiFi Access Point Configuration
 #define AP_SSID "ESP32-Deauther"
-#define AP_PASS "lozinka32"  // Changed from "esp32wroom32" - you can customize this
+#define AP_PASS "lozinka32"  // Changed from "esp32wroom32" - Eng is not my native language so pass is in my mother language
 
-// LED Configuration
+// LED Configuration - this uses LED connected to GPIO22 and GND instead of built-in LED
 #define LED 22
 
-// Network Configuration
+// Network Configuration - EU region specifically 
 #define CHANNEL_MAX 11  // Channels 1-11 (12-13 not supported by all devices)
 
 // Deauth Attack Configuration
